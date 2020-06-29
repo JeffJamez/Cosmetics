@@ -1,8 +1,8 @@
 This Is a Point Of Sales System for Cosmetics
 
 Here's how it works:
--The moment you run the "cosme.exe" file you'll be prompted to login
--After logging in you'll see the main app, and there is a sidebar on your left with 4 buttons in form of images
+
+-After logging in, (username: admin, password: admin123) you'll see the main app, and there is a sidebar on your left with 4 buttons in form of images
 - When you hover each image(button) on the sidebar, you'll see a label displayed i.e Sales, Products, Users and Products Respectively
 - Clickng each button(image) on the sidebar will open a new page - Sales Page, Product Page, Users Page and Suppliers Page
 
