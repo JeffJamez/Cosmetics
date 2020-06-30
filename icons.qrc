@@ -1,0 +1,27 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>gallery/cosmetic1.jpg</file>
+        <file>gallery/cosmetic2.jpg</file>
+        <file>gallery/makeup.jpg</file>
+        <file>gallery/three-black.jpg</file>
+        <file>gallery/eyeshadow.jpg</file>
+        <file>gallery/sales.png</file>
+        <file>gallery/supply.png</file>
+        <file>gallery/users.png</file>
+        <file>gallery/cancel.png</file>
+        <file>gallery/delete.png</file>
+        <file>gallery/edit.png</file>
+        <file>gallery/face.png</file>
+        <file>gallery/lock.png</file>
+        <file>gallery/money.png</file>
+        <file>gallery/no.png</file>
+        <file>gallery/psd.png</file>
+        <file>gallery/save.png</file>
+        <file>gallery/masewa.jpg</file>
+        <file>gallery/search.png</file>
+        <file>gallery/lipstick.png</file>
+        <file>gallery/reload.png</file>
+        <file>gallery/excel.png</file>
+    </qresource>
+</RCC>
